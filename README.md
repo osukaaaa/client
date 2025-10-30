@@ -1,2 +1,2 @@
 # client
-supported games: prison life (for now)
+supported games: [FPS] Flick (for now bcuz im lazy)
